@@ -92,8 +92,6 @@ From and To  ->  checks  ->  new word  ->  is it COLD?
 
 ## Flowchart
 
-![Flowchart](FireToCold_FlowChart.png)
-
 A PDF version is in [`FireToCold_FlowChart.pdf`](FireToCold_FlowChart.pdf).
 
 ## Notes
